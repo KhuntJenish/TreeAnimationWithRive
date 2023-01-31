@@ -1,16 +1,12 @@
-# test_app
+# TreeAnimationWithRive
 
-A new Flutter project.
+Rive animation is a tool used to create interactive and animated 2D graphics and animations. It can be used in a variety of contexts, including video games, mobile apps, and web applications.
+
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Output :
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
